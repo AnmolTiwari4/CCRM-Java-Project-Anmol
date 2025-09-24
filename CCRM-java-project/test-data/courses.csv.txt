@@ -1,0 +1,3 @@
+code,title,credits,instructor,semester,department
+CS101,Introduction to Programming,4,Dr. Sharma,FALL,Computer Science
+MA101,Calculus I,3,Dr. Gupta,FALL,Mathematics
